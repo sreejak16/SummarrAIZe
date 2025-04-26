@@ -1,0 +1,10 @@
+streamlit
+whisper
+yt-dlp
+moviepy
+opencv-python
+numpy
+deep-translator
+keybert
+transformers
+torch
