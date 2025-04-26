@@ -1,0 +1,6 @@
+[global]
+  cacheEnable = true
+  server.enableCORS = false
+  server.enableXsrfProtection = false
+  server.headless = true
+  server.port = 8501
