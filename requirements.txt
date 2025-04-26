@@ -1,10 +1,15 @@
 streamlit==1.10.0
-whisper
-yt-dlp
 opencv-python-headless==4.7.0.64  # HEADLESS version of opencv for cloud deployment
-moviepy
-deep-translator
 keybert
 transformers
 detoxify
 altair==4.2.0
+pygments==2.19.1
+markdown-it-py==3.0.0
+mdurl==0.1.2
+rich==14.0.0
+moviepy==1.0.3
+whisper==1.1.10
+yt-dlp==2025.3.31
+deep-translator==1.9.0
+
