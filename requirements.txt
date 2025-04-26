@@ -1,10 +1,9 @@
-streamlit
+streamlit==1.10.0
 whisper
 yt-dlp
+opencv-python-headless==4.5.5.62  # HEADLESS version of opencv for cloud deployment
 moviepy
-opencv-python
-numpy
 deep-translator
 keybert
 transformers
-torch
+detoxify
