@@ -9,7 +9,8 @@ markdown-it-py==3.0.0
 mdurl==0.1.2
 rich==14.0.0
 moviepy==1.0.3
-whisper==1.1.10
+whisper @ git+https://github.com/openai/whisper.git
+torch
 yt-dlp==2025.3.31
 deep-translator==1.9.0
 
