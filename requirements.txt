@@ -1,5 +1,5 @@
 streamlit==1.10.0
-opencv-python-headless==4.7.0.64  # HEADLESS version of opencv for cloud deployment
+opencv-python-headless==4.11.0.86
 keybert
 transformers
 detoxify
